@@ -126,11 +126,16 @@ body {
 .footer-copyright {
     color: #666;
     padding: 40px 0;
+    text-align: center;
+    
 }
 .ex9 {
     color: #589b37;
     align-items: center;
 }
 .ex99 {
+    color: #f2f6e9;
+}
+.icon {
     color: #f2f6e9;
 }
